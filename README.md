@@ -21,7 +21,10 @@
 
 <h2>Snapshots</h2>
 <h3>Home page</h3>
-![studybud_home](https://github.com/user-attachments/assets/26ab400e-e170-4d73-8d29-7c9b75b5d44c)
+<img src="https://github.com/user-attachments/assets/2dabf6e6-844d-4ebd-a741-efbdc6566ca1">
 
-<h3>Room page</h3>
-![studybud_room](https://github.com/user-attachments/assets/e65e3e5e-c0bd-4196-a6ed-2cd03f064713)
+<h3>Room Page</h3>
+<img src="https://github.com/user-attachments/assets/90845dcf-ec81-4ed3-a90f-990cc4e745c6">
+
+
+
